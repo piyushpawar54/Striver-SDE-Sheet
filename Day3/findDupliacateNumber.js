@@ -3,7 +3,7 @@
 
 //////////////////////
 //Floyd's Tortoise and Hare (Cycle Detection)
-//////////////////////
+////////////////////
 
 var findDuplicate = function (nums) {
   // Find the intersection point of the two runners.
